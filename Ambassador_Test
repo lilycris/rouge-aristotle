@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head><font face="ariel">
+<title>Page Title</title>
+    </font></head>
+<body><font face="ariel">
+
+<h1>Ambassador Tracker</h1>
+<h2>About</h2>
+    <p>This ambassador tracker is to help the Learning Team by providing several features that we currently do by hand or utilize multiple sources to achive. This tracker hopes to elimiate the manual processes we use and extrapolate the data for more efficient decision making.</p>
+    <p>Some of the features I wish to add:</p>
+    <ul>
+        <li>Database of ambassors</li>
+        <ul style="list-style-type:circle;">
+            <li>Name,Shift,login</li>
+            <li>What are they trained in?</li>
+            <li>Vest tracker</li>
+            <li>How long have they been an ambassador?</li>
+        </ul>
+        <li>Ambassador Ratios</li>
+        <li>Ambassador Rotator</li>
+        <li>Monthly 1:1 Tracker</li>
+        <li>An ambassador's most recent class taught</li>
+    </ul>
+<h2>Progress</h2>
+    <p>Created an html and started adding introductory information</p>
+
+    </font></body>
+</html>
